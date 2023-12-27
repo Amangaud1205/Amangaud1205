@@ -10,9 +10,9 @@ Welcome to my GitHub profile! I'm passionate about data analysis and eager to le
 
 ## Skills in Progress
 
-- **Languages:** Python, SQL, Tableau
+- **Languages:** Python, SQL
 - **Data Analysis:** Pandas, NumPy
-- **Data Visualization:** Matplotlib, Seaborn
+- **Data Visualization:** Matplotlib, Seaborn,Tableau
 - **Databases:** MySQL
 - **Tools:** Jupyter Notebooks, Google Colab Notebooks
 
